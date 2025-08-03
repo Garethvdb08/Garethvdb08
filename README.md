@@ -28,7 +28,7 @@
 <strong align="right">Digital Craftsman (Developer/Music Enthusiast)</strong>
 ###
 
-<p align="left">💻 Junior Software Developer<br>📚 Currently learning Tailwind CSS & JavaScript<br>🎓 Studying at CodeSpace Academy<br>👨‍💻 All my projects: https://github.com/Garethvdb08<br>📫 Reach me: garethvdb18@gmail.com</p>
+<p align="left">💻 Junior Software Developer<br>📚 Currently learning Tailwind CSS & JavaScript<br>🎓 Studied at CodeSpace Academy<br>👨‍💻 All my projects: https://github.com/Garethvdb08<br>📫 Reach me: garethvdb18@gmail.com</p>
 
 ###
 
