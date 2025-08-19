@@ -244,7 +244,7 @@
     100% { transform: translateX(0); opacity: 1; }
   }
 
-  /* Dynamic background for header */
+  /* -Dynamic background for header- */
   .header-background {
     background: linear-gradient(-45deg, #6272a4, #bd93f9, #8be9fd, #50fa7b);
     background-size: 400% 400%;
