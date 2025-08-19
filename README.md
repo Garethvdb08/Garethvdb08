@@ -1,65 +1,146 @@
+<!-- 🚀 Enhanced GitHub Profile README - Modern & Stylish -->
 <div align="center">
-  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTBvaDVqcnJvcmY3eG5qZGxmdWN2c245Z2F3dGdsdWc4b2ZnbjFsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vi9q6kkhLiJVx3L8TO/giphy.gif"  />
+  
+  <!-- Animated Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hey+there!+👋;I'm+Gareth+van+den+Berg;Digital+Craftsman+%26+Developer;Music+Enthusiast+%7C+Code+Artist" alt="Typing animation" />
+  
+  <!-- Profile GIF -->
+  <br><br>
+  <img height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTBvaDVqcnJvcmY3eG5qZGxmdWN2c245Z2F3dGdsdWc4b2ZnbjFsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vi9q6kkhLiJVx3L8TO/giphy.gif" alt="Welcome GIF" />
+  
 </div>
 
-###
+---
+
+<!-- 🔗 Social Links with Enhanced Badges -->
+<div align="center">
+  
+  [![Gmail Badge](https://img.shields.io/badge/-garethvdb18@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:garethvdb18@gmail.com)](mailto:garethvdb18@gmail.com)
+  [![LinkedIn Badge](https://img.shields.io/badge/-Gareth%20van%20den%20Berg-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gareth-van-den-berg-7b8295221/)](https://www.linkedin.com/in/gareth-van-den-berg-7b8295221/)
+  [![GitHub Badge](https://img.shields.io/badge/-@garethvdb08-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Garethvdb08)
+  
+</div>
+
+---
+
+<!-- 👨‍💻 About Me Section with Cards -->
+<h2 align="center">👨‍💻 About Me</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <a href="https://www.linkedin.com/in/gareth-van-den-berg-7b8295221/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>🎯 Current Focus</h3>
+        <ul>
+          <li>🚀 Software Developer, Web Designer, Software Composer</li>
+          <li>📚 Learning: Machine Learning, Coding with AI</li>
+          <li>🎵 Music & Code Enthusiast</li>
+          <li>📫 Reach me: garethvdb18@gmail.com</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top">
+        <img align="center" height="180" src="https://media.giphy.com/media/gH1jGsCnQBiFHWMFzh/giphy.gif" alt="Coding GIF" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-###
+---
 
-<h1 align="center">Hey there👋 My names Gareth</h1>
+<!-- 🛠️ Tech Stack with Animated Icons -->
+<h2 align="center">🛠️ Tech Arsenal</h2>
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<img align="right" height="201" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjU1ZHJ6NXd1ZmRyZGluZ3MwNGY1YTE2ZmpzMXhqdWRzZzVtYWU0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/giphy.gif"  />
-
-###
-
-<strong align="right">Digital Craftsman (Developer/Music Enthusiast)</strong>
-###
-
-<p align="left">💻 Junior Software Developer<br>📚 Currently learning Tailwind CSS & JavaScript<br>🎓 Studied at CodeSpace Academy<br>👨‍💻 All my projects: https://github.com/Garethvdb08<br>📫 Reach me: garethvdb18@gmail.com</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+<div align="center">
+  
+  <!-- Frontend Technologies -->
+  <h3>Frontend</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" height="50" alt="Frontend Stack" />
+  </p>
+  
+  <!-- Styling & Frameworks -->
+  <h3>Styling & Tools</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,react,nextjs" height="50" alt="Styling Tools" />
+  </p>
+  
+  <!-- Development Tools -->
+  <h3>Development</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs" height="50" alt="Dev Tools" />
+  </p>
+  
 </div>
 
-###
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=garethvdb08&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=garethvdb08&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=garethvdb08&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<!-- 📊 GitHub Stats with Enhanced Cards -->
+<h2 align="center">📊 GitHub Activity</h2>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=garethvdb08&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=garethvdb08&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=garethvdb08&theme=radical&hide_border=false" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garethvdb08&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+<!-- 🎯 Featured Projects -->
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Garethvdb08&repo=formatflex&theme=radical)](https://github.com/Garethvdb08/formatflex)
+  
+</div>
+
+---
+
+<!-- 💡 Daily Dev Quote -->
+<h2 align="center">💡 Daily Inspiration</h2>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
+</div>
+
+---
+
+<!-- 🏆 GitHub Trophies -->
+<h2 align="center">🏆 Achievements</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=garethvdb08&theme=radical&no-frame=false&no-bg=false&column=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+<!-- 🌟 Footer -->
+<div align="center">
+  
+  <img src="https://komarev.com/ghpvc/?username=garethvdb08&style=flat-square&color=blue" alt="Profile Views" />
+  
+  <br><br>
+  
+  <!-- Visitor Counter -->
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Garethvdb08.Garethvdb08)
+  
+  <br>
+  
+  <!-- Thank You Message -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!+🙏;Keep+coding+and+stay+awesome!+✨" alt="Thank you" />
+  
+</div>
+
+<!-- Proudly enhanced with ❤️ -->
